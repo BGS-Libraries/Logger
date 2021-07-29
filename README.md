@@ -14,5 +14,5 @@ $ npm install BGS-Libraries/logger
 
 Import the `Logger` library:
 ```js
-const { logger } = require('logger');
+const logger = require('logger');
 ```
